@@ -2,10 +2,9 @@
 
 XL CAD is a parametric drawing engine embedded in Microsoft Excel, designed to generate 2D drawings directly from spreadsheet data, eliminating the need for separate CAD software.
 
-## Status
+## Content
 
-XL CAD is currently in its commercial validation phase.
-The software is ready to use, available for free, and under active development.
+This repository is intended to contain the official public documentation and technical resources for XL CAD.
 
 ## Official links
 
