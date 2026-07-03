@@ -4,6 +4,7 @@
 |---|---|---|
 | 1.0.3309.0 | 2026-06-25 | [Release notes](rel_notes.md) |
 
+- [Overview](overview.md)
 - [Definitions](definitions/README.md)
 - [Enumerations](enumerations/README.md)
 - [Instructions](instructions/README.md)
